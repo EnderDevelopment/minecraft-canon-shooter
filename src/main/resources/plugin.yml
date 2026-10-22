@@ -1,0 +1,8 @@
+name: CannonPlugin
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+commands:
+  givecannon:
+    description: Gives the player a cannon.
+    usage: /givecannon
